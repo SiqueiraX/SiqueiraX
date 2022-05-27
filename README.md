@@ -2,6 +2,10 @@
 
 ![SiqueiraX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiqueiraX&show_icons=true)
 
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+
 <!--
 **SiqueiraX/SiqueiraX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

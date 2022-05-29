@@ -1,10 +1,14 @@
-### Hi there 👋
+## Hello 👋 I'm SiqueiraX, but you can just call me Siqueira (See-kay-ra), possibly your next developer...
+
+I'm a brazilian designer trained to make your idea into an exceptional web application. I started studying graphic design and webdevelopment early 2019. Since then I've worked on small projects to improve and refine my skills and completed several real production apps you can check out right now.
 
 ![SiqueiraX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiqueiraX&show_icons=true)
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+
+# Have an idea? Let's work together! 
 
 <!--
 **SiqueiraX/SiqueiraX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
